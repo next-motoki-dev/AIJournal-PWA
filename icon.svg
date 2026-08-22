@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="AIJournal">
+  <rect width="512" height="512" rx="112" fill="#635b4f"/>
+  <path d="M112 143c53-10 100 1 144 33v224c-42-28-89-39-144-30V143Z" fill="#f7f4ee"/>
+  <path d="M400 143c-53-10-100 1-144 33v224c42-28 89-39 144-30V143Z" fill="#eee7db"/>
+  <path d="M256 176v224" stroke="#c8bcaa" stroke-width="12" stroke-linecap="round"/>
+  <path d="M147 216c28-2 50 3 69 13M147 264c28-2 50 3 69 13M296 229c19-10 41-15 69-13M296 277c19-10 41-15 69-13" fill="none" stroke="#928878" stroke-width="10" stroke-linecap="round"/>
+</svg>
